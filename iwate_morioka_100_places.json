@@ -1,0 +1,2481 @@
+{
+  "meta": {
+    "title": "盛岡駅から片道10・30・60・120分で到達できる岩手県内スポット100選",
+    "generated_at": "2026-07-11",
+    "origin": {
+      "name": "盛岡駅",
+      "latitude": 39.7016,
+      "longitude": 141.1366
+    },
+    "count": 100,
+    "bands": {
+      "10": 25,
+      "30": 25,
+      "60": 25,
+      "120": 25
+    },
+    "assumptions": [
+      "所要時間は盛岡駅を出発点とする通常時の片道目安。公共交通は乗車・徒歩時間を含むが、出発前の待ち時間は原則含めない。",
+      "車は通常期・一般道中心。渋滞、積雪、路面凍結、駐車場探索は含めない。",
+      "移動費は片道。車はガソリン代を除外し、有料道路を使わない経路では0円。駐車料金、入場料、レンタサイクル料金は含めない。",
+      "自転車は持参または既に利用可能な車両を前提として0円。",
+      "緯度経度はスポット入口または代表点の概略値で、地図表示用の初期値。正式運用前に地図APIで再ジオコーディングすること。",
+      "10・30・60・120分は厳密な保証ではなく予算帯。特に冬季と観光繁忙期は上振れする。"
+    ],
+    "niche_level_definition": {
+      "1": "全国的に有名",
+      "2": "県内定番",
+      "3": "地域では知られる",
+      "4": "観光客にはややマニアック",
+      "5": "かなりマニアック"
+    },
+    "sources": [
+      {
+        "name": "岩手県公式観光サイト いわての旅",
+        "url": "https://iwatetabi.jp/"
+      },
+      {
+        "name": "盛岡観光情報",
+        "url": "https://www.odette.or.jp/"
+      },
+      {
+        "name": "IGRいわて銀河鉄道 運賃",
+        "url": "https://igr.jp/fare/"
+      },
+      {
+        "name": "JRバス東北 早坂高原線",
+        "url": "https://www.jrbustohoku.co.jp/route/15/105/"
+      },
+      {
+        "name": "岩手県交通 でんでんむし",
+        "url": "https://www.iwatekenkotsu.co.jp/denden-annai.html"
+      },
+      {
+        "name": "岩手県交通 小岩井農場線",
+        "url": "https://www.iwatekenkotsu.co.jp/koiwai-kisetsu.html"
+      },
+      {
+        "name": "小岩井農場 アクセス",
+        "url": "https://www.koiwaifarm.com/guide/access/"
+      },
+      {
+        "name": "龍泉洞公式 アクセス",
+        "url": "https://www.iwate-ryusendo.jp/ja/access/"
+      },
+      {
+        "name": "岩手県北バス 106特急・急行バス",
+        "url": "https://www.iwate-kenpokubus.co.jp/archives/16465/"
+      },
+      {
+        "name": "道の駅 やまびこ館 公式",
+        "url": "https://www.miyako-kawai.com/yamabikokan"
+      },
+      {
+        "name": "NAVITIME バス経路検索（補助確認）",
+        "url": "https://www.navitime.co.jp/bustransit/"
+      }
+    ]
+  },
+  "places": [
+    {
+      "id": 1,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "盛岡駅前広場の啄木歌碑",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 1,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅東口前",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 10,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7018,
+        "longitude": 141.1368,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "到着直後に見られる石川啄木の代表的な歌碑。旅の導入に向く。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 2,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "マリオス展望室",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 4,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅西口から連絡通路",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.7011,
+        "longitude": 141.1343,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "無料で盛岡市街、岩手山、北上川方面を俯瞰できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 3,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "アイーナ・岩手県立図書館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 4,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅西口から徒歩",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7016,
+        "longitude": 141.1334,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "建築空間と地域資料を短時間で楽しめ、雨天時にも強い。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 4,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "滝の広場",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 3,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅東口から徒歩",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.702,
+        "longitude": 141.138,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "盛岡駅前の水景スポット。短時間の休憩や待ち合わせに使いやすい。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 5,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "開運橋",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 7,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅東口から開運橋通り",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.7032,
+        "longitude": 141.1416,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "岩手山を正面に望みやすい盛岡の玄関口。夕景も良い。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 6,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "木伏緑地",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 8,
+        "one_way_cost_yen": 0,
+        "route_summary": "開運橋南側へ徒歩",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7039,
+        "longitude": 141.1429,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "北上川沿いのリバーサイド空間。飲食と散歩を組み合わせやすい。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 7,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "旭橋",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "徒歩",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅西口から北へ徒歩",
+        "cost_note": "片道運賃"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7057,
+        "longitude": 141.133,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "北上川と鉄道、市街地を同時に眺められる撮影向けの橋。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 8,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "いーはとーぶアベニュー材木町",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 7,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅から材木町へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 35,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7075,
+        "longitude": 141.139,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "宮沢賢治ゆかりのモニュメントと個性的な店が並ぶ通り。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 9,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "光原社",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 7,
+        "one_way_cost_yen": 0,
+        "route_summary": "材木町通り",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7079,
+        "longitude": 141.1386,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "宮沢賢治『注文の多い料理店』を出版した歴史と民芸の空間。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 10,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "啄木新婚の家",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 8,
+        "one_way_cost_yen": 0,
+        "route_summary": "中央通方面へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7067,
+        "longitude": 141.1456,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "石川啄木が新婚期に暮らした小規模な武家住宅。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 11,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "盛岡城跡公園",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 9,
+        "one_way_cost_yen": 0,
+        "route_summary": "大通・菜園経由",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.7008,
+        "longitude": 141.1507,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "苔むした石垣と市街地の近さが特徴。四季を通じて歩ける。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 12,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "もりおか歴史文化館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 9,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡城跡公園北側",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.7014,
+        "longitude": 141.1518,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "盛岡藩と祭りの資料をまとめて把握できる。城跡散策と相性が良い。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 13,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "櫻山神社",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 9,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡城跡公園北側",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.702,
+        "longitude": 141.1521,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "城跡に隣接し、南部家ゆかりの歴史を感じられる神社。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 14,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "烏帽子岩",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 9,
+        "one_way_cost_yen": 0,
+        "route_summary": "櫻山神社境内",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 5,
+      "coordinates": {
+        "latitude": 39.7022,
+        "longitude": 141.1522,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "櫻山神社境内の巨大岩。城下町形成以前からの信仰対象でマニアック。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 15,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "石割桜",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中央通から内丸へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 20,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.7049,
+        "longitude": 141.1523,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "花崗岩の割れ目から育つ国指定天然記念物。花期外でも形が印象的。",
+      "season_note": "桜の見頃は例年4月中旬前後",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 16,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "岩手銀行赤レンガ館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中ノ橋通へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 50,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.6995,
+        "longitude": 141.154,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "辰野金吾・葛西萬司設計の赤レンガ建築。内部見学も可能。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 17,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "もりおか啄木・賢治青春館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中ノ橋通",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6992,
+        "longitude": 141.1547,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "旧銀行建築の中で啄木と賢治の盛岡時代を追える。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 18,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "プラザおでって",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中ノ橋東側",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6988,
+        "longitude": 141.1551,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "観光情報と地域展示を一度に確認できる街歩きの中継点。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 19,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "中津川河川敷（中の橋付近）",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中の橋から河川敷へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6996,
+        "longitude": 141.1558,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "市街地の中心で川辺に降りられ、盛岡らしい水辺景観を味わえる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 20,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "下の橋擬宝珠",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 9,
+        "one_way_cost_yen": 0,
+        "route_summary": "菜園から下ノ橋町へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6963,
+        "longitude": 141.1485,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "江戸期の擬宝珠が残る橋。城下町の道路史を短時間で見られる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 21,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "上の橋擬宝珠",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "本町通から上ノ橋町へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7061,
+        "longitude": 141.157,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "国指定重要美術品の擬宝珠が並ぶ。中津川散策の北端に向く。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 22,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "肴町商店街",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中ノ橋通から南へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6968,
+        "longitude": 141.1555,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "全天候型アーケードと老舗が残り、街の日常を観察できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 23,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "盛岡バスセンター",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中ノ橋通を東へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 35,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6977,
+        "longitude": 141.1581,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "再整備された交通拠点。建築、飲食、地域交通を一緒に見られる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 24,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "盛岡市中央公民館・旧南部家別邸庭園",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅から中央通・本町通経由",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7087,
+        "longitude": 141.1612,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "池泉回遊式庭園と歴史建築を静かに楽しめる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 25,
+      "time_budget_minutes": 10,
+      "time_band": "10分以内",
+      "name": "岩手県公会堂",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 10,
+        "one_way_cost_yen": 0,
+        "route_summary": "中央通から内丸へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 25,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7042,
+        "longitude": 141.1539,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "昭和初期の公共建築。内丸の官庁街景観を観察するのに向く。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 26,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡八幡宮",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 12,
+        "one_way_cost_yen": 0,
+        "route_summary": "中ノ橋通から八幡町へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6938,
+        "longitude": 141.1667,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "盛岡の総鎮守。長い参道と多彩な境内社が見どころ。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 27,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "南昌荘",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 12,
+        "one_way_cost_yen": 0,
+        "route_summary": "菜園から清水町へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6946,
+        "longitude": 141.1467,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "明治期の邸宅と庭園。紅葉期は特に美しい。",
+      "season_note": "紅葉期は混雑しやすい",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 28,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "鉈屋町",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 15,
+        "one_way_cost_yen": 0,
+        "route_summary": "八幡町から南へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6898,
+        "longitude": 141.159,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "町家、湧水、細い街路が残る盛岡の歴史地区。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 29,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "もりおか町家物語館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 16,
+        "one_way_cost_yen": 0,
+        "route_summary": "鉈屋町中心部",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6891,
+        "longitude": 141.1592,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "旧酒蔵を活用した文化施設。町家建築と地域展示をまとめて見られる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 30,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "大慈清水",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 15,
+        "one_way_cost_yen": 0,
+        "route_summary": "鉈屋町",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 20,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.69,
+        "longitude": 141.1587,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "生活用水として守られてきた段階式共同井戸。水の街・盛岡を実感できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 31,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "青龍水",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 15,
+        "one_way_cost_yen": 0,
+        "route_summary": "大慈寺町",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 15,
+      "niche_level": 5,
+      "coordinates": {
+        "latitude": 39.6915,
+        "longitude": 141.1588,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "寺院脇に湧く共同井戸。大慈清水と比較すると地域の水文化が分かる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 32,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "十六羅漢公園",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 16,
+        "one_way_cost_yen": 0,
+        "route_summary": "茶畑方面",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6911,
+        "longitude": 141.1632,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "飢饉供養の石仏群。盛岡の近世社会史を伝える静かな場所。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 33,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "報恩寺五百羅漢",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 16,
+        "one_way_cost_yen": 0,
+        "route_summary": "寺町通り",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 50,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7106,
+        "longitude": 141.1582,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "表情の異なる羅漢像が並ぶ。中国風の像も含む独特の彫刻群。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 34,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "龍谷寺のモリオカシダレ",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 16,
+        "one_way_cost_yen": 0,
+        "route_summary": "寺町通り",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 25,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7102,
+        "longitude": 141.1566,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "盛岡固有とされるシダレザクラ。植物・天然記念物好き向け。",
+      "season_note": "見頃は例年4月中旬前後",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 35,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "三ツ石神社",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 18,
+        "one_way_cost_yen": 0,
+        "route_summary": "名須川町から北山へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7163,
+        "longitude": 141.1609,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "『岩手』の地名由来伝説に結び付く鬼の手形の岩がある。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 36,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "高松の池",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 18,
+        "one_way_cost_yen": 0,
+        "route_summary": "上田経由",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.731,
+        "longitude": 141.1456,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "桜、渡り鳥、池畔散歩が楽しめる市民の定番。",
+      "season_note": "桜期と冬の白鳥飛来期が特に人気",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 37,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡市動物公園ZOOMO",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 25,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道106号方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6857,
+        "longitude": 141.2055,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "里山型の広い園内で動物展示と散策を両立できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 38,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "岩手県立博物館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 25,
+        "one_way_cost_yen": 0,
+        "route_summary": "松園方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.7524,
+        "longitude": 141.1609,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "自然史、考古、民俗を一館で扱う。岩手全体を理解する入口になる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 39,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "岩手県立美術館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 12,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅西口から本宮へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.693,
+        "longitude": 141.1296,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "萬鐵五郎、松本竣介、舟越保武など岩手ゆかりの美術を見られる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 40,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡市子ども科学館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 8,
+        "one_way_cost_yen": 0,
+        "route_summary": "盛岡駅西口から本宮へ",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6969,
+        "longitude": 141.1271,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "体験展示とプラネタリウムが中心。科学系の短時間観光にも使える。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 41,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "原敬記念館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 15,
+        "one_way_cost_yen": 0,
+        "route_summary": "本宮から下太田方面",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6875,
+        "longitude": 141.1234,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "平民宰相・原敬の生家と資料を通じて近代政治史を学べる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 42,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡市先人記念館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 14,
+        "one_way_cost_yen": 0,
+        "route_summary": "本宮地区",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6941,
+        "longitude": 141.121,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "新渡戸稲造、米内光政、金田一京助ら盛岡ゆかりの人物を横断的に紹介。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 43,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡市遺跡の学び館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 20,
+        "one_way_cost_yen": 0,
+        "route_summary": "本宮から永井方面",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6682,
+        "longitude": 141.1263,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "市内遺跡の出土品と復元展示が充実。考古学好き向け。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 44,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "岩鋳鉄器館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 20,
+        "one_way_cost_yen": 0,
+        "route_summary": "南仙北方面",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6718,
+        "longitude": 141.1717,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "南部鉄器の製造工程を見学でき、製品展示も多い。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 45,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "あさ開 昭和旭蔵",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 18,
+        "one_way_cost_yen": 0,
+        "route_summary": "大慈寺町",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.688,
+        "longitude": 141.163,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "盛岡の酒造りを工程と建物から理解できる。見学可否は要確認。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 46,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "ベアレン醸造所",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 18,
+        "one_way_cost_yen": 0,
+        "route_summary": "北山・前九年方面",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.7215,
+        "longitude": 141.1405,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "欧州の旧式醸造設備を移設した地ビール工場。見学日は要確認。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 47,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "神子田朝市",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "自転車",
+        "one_way_minutes": 20,
+        "one_way_cost_yen": 0,
+        "route_summary": "神子田町",
+        "cost_note": "0円は自転車の調達・レンタル料金を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6842,
+        "longitude": 141.1538,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "早朝の地元野菜、惣菜、食堂が中心。観光地化しすぎていない。",
+      "season_note": "早朝営業。休市日を要確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 48,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "米内浄水場",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 25,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道455号から米内へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7483,
+        "longitude": 141.2162,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "歴史的施設とシダレザクラ群で知られる。公開時期に注意。",
+      "season_note": "一般公開・桜公開日は年ごとに確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 49,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡手づくり村",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 25,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道46号で繋方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6926,
+        "longitude": 141.0237,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "南部鉄器、染物、せんべい等の工房を見学・体験できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 50,
+      "time_budget_minutes": 30,
+      "time_band": "30分以内",
+      "name": "盛岡つなぎ温泉",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 27,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道46号で繋へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6908,
+        "longitude": 141.0088,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "御所湖畔の温泉地。日帰り入浴と湖景を組み合わせられる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 51,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "御所湖広域公園ファミリーランド",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 30,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道46号から御所湖方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6785,
+        "longitude": 141.0002,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "大型遊具と芝生があり、家族向けの湖畔休憩地。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 52,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "御所湖広域公園町場地区園地",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 35,
+        "one_way_cost_yen": 0,
+        "route_summary": "御所湖周回道路",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6824,
+        "longitude": 140.9912,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "御所湖と岩手山を静かに眺められる比較的落ち着いた園地。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 53,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "御所湖川村美術館",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 35,
+        "one_way_cost_yen": 0,
+        "route_summary": "御所湖東岸",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6894,
+        "longitude": 141.0007,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "湖畔の私設美術館。小規模だが静かな鑑賞に向く。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 54,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "小岩井農場まきば園",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "公共交通機関/徒歩",
+        "one_way_minutes": 35,
+        "one_way_cost_yen": 750,
+        "route_summary": "盛岡駅10番乗り場から季節運行バス",
+        "cost_note": "盛岡駅からの大人片道運賃。運行期間・曜日を要確認"
+      },
+      "recommended_stay_minutes": 180,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.7508,
+        "longitude": 141.012,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "農場景観、動物、乳製品、歴史的建造物をまとめて楽しめる。",
+      "season_note": "季節運行。冬季は車が現実的",
+      "estimate_confidence": "high"
+    },
+    {
+      "id": 55,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "小岩井農場の一本桜",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 35,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道46号・県道219号方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 30,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.7622,
+        "longitude": 141.0024,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "岩手山を背景に一本桜を望む代表的景観。",
+      "season_note": "開花期以外は牧草地景観。路上駐車禁止",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 56,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "春子谷地湿原",
+      "municipality": "滝沢市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 35,
+        "one_way_cost_yen": 0,
+        "route_summary": "小岩井・柳沢方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.79,
+        "longitude": 140.997,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "岩手山麓の湿原と草原景観。小岩井周辺より人が少ない。",
+      "season_note": "積雪期・ぬかるみ時は注意",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 57,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "雫石銀河ステーション",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 35,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道46号で雫石中心部",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 35,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6898,
+        "longitude": 140.9748,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "駅舎内の観光案内、産直、温泉街への入口として使える。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 58,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "雫石町歴史民俗資料館",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 40,
+        "one_way_cost_yen": 0,
+        "route_summary": "雫石中心部から西へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.6945,
+        "longitude": 140.9675,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "町の農山村文化、民具、歴史を扱う地域密着型資料館。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 59,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "七ツ森森林公園",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 40,
+        "one_way_cost_yen": 0,
+        "route_summary": "雫石中心部から七ツ森方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.7048,
+        "longitude": 140.9478,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "宮沢賢治作品にも通じる森と丘陵景観。軽い散策向け。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 60,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "鶯宿温泉",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 40,
+        "one_way_cost_yen": 0,
+        "route_summary": "県道1号で鶯宿へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6391,
+        "longitude": 140.9275,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "歴史ある温泉街。日帰り湯と川沿い散歩を組み合わせられる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 61,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "フラワー＆ガーデン森の風",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 40,
+        "one_way_cost_yen": 0,
+        "route_summary": "鶯宿温泉隣接",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6386,
+        "longitude": 140.9296,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "季節の花壇と夜間演出が見どころ。温泉とセットにしやすい。",
+      "season_note": "開園日・ライトアップ時期を要確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 62,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "岩手高原スノーパーク",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 45,
+        "one_way_cost_yen": 0,
+        "route_summary": "網張方面へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 180,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.8067,
+        "longitude": 140.9954,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "冬はスキー、無雪期は岩手山麓の景観が魅力。",
+      "season_note": "主目的は冬季。営業期間を要確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 63,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "網張温泉",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 55,
+        "one_way_cost_yen": 0,
+        "route_summary": "県道219号で網張へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.8233,
+        "longitude": 140.9365,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "硫黄泉と岩手山麓の高原景観。登山や散策の拠点にもなる。",
+      "season_note": "冬季は道路状況を確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 64,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "網張ビジターセンター",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 55,
+        "one_way_cost_yen": 0,
+        "route_summary": "網張温泉隣接",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.8224,
+        "longitude": 140.937,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "岩手山の自然、火山、動植物を事前学習できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 65,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "玄武洞（雫石町）",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 55,
+        "one_way_cost_yen": 0,
+        "route_summary": "県道194号で葛根田方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.844,
+        "longitude": 140.893,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "葛根田川沿いの柱状節理。地質好きに向く道路沿いの景勝地。",
+      "season_note": "落石・冬季通行状況に注意",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 66,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "焼走り熔岩流",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 55,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道282号から焼走りへ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.861,
+        "longitude": 141.038,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "岩手山噴火による黒い溶岩原を歩ける国指定特別天然記念物。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 67,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "岩手山焼走り国際交流村",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 55,
+        "one_way_cost_yen": 0,
+        "route_summary": "焼走り熔岩流隣接",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.8601,
+        "longitude": 141.0371,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "熔岩流観察、温泉、キャンプの拠点。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 68,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "サラダファーム",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 45,
+        "one_way_cost_yen": 0,
+        "route_summary": "西根IC周辺",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.9206,
+        "longitude": 141.0904,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "花、動物、直売、食事を組み合わせられる複合観光施設。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 69,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "八幡平市松尾鉱山資料館",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 55,
+        "one_way_cost_yen": 0,
+        "route_summary": "松尾寄木方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.9581,
+        "longitude": 141.0654,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "かつての巨大硫黄鉱山と鉱山都市の歴史を資料で追える。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 70,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "石神の丘美術館",
+      "municipality": "岩手町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 50,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号を北上",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.9736,
+        "longitude": 141.2122,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "屋外彫刻とラベンダー園を備える道の駅併設美術館。",
+      "season_note": "屋外展示は天候の影響を受ける",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 71,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "道の駅 石神の丘",
+      "municipality": "岩手町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 50,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号沿い",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.9739,
+        "longitude": 141.2129,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "産直、キャベツ等の地域農産物、美術館を一度に楽しめる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 72,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "石川啄木記念館",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "公共交通機関/徒歩",
+        "one_way_minutes": 40,
+        "one_way_cost_yen": 550,
+        "route_summary": "IGR盛岡駅から渋民駅、駅から徒歩",
+        "cost_note": "IGR盛岡－渋民の大人片道普通運賃"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.8459,
+        "longitude": 141.1714,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "啄木の故郷・渋民で生家や学校建築と合わせて人物像を追える。",
+      "season_note": null,
+      "estimate_confidence": "high"
+    },
+    {
+      "id": 73,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "渋民公園",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "公共交通機関/徒歩",
+        "one_way_minutes": 45,
+        "one_way_cost_yen": 550,
+        "route_summary": "IGR盛岡駅から渋民駅、駅から徒歩",
+        "cost_note": "IGR盛岡－渋民の大人片道普通運賃"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.8422,
+        "longitude": 141.1665,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "岩手山と北上川を望む啄木ゆかりの公園。歌碑巡りに向く。",
+      "season_note": null,
+      "estimate_confidence": "high"
+    },
+    {
+      "id": 74,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "岩洞湖",
+      "municipality": "盛岡市",
+      "transport": {
+        "mode": "公共交通機関/徒歩",
+        "one_way_minutes": 49,
+        "one_way_cost_yen": 1220,
+        "route_summary": "JRバス東北早坂高原線で岩洞湖下車",
+        "cost_note": "盛岡駅東口－岩洞湖の大人片道運賃"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.7979,
+        "longitude": 141.341,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "人造湖ながら高原湖の景観が良く、冬のワカサギ釣りで有名。",
+      "season_note": "冬季は防寒と結氷状況確認",
+      "estimate_confidence": "high"
+    },
+    {
+      "id": 75,
+      "time_budget_minutes": 60,
+      "time_band": "60分以内",
+      "name": "道の駅 やまびこ館",
+      "municipality": "宮古市",
+      "transport": {
+        "mode": "公共交通機関/徒歩",
+        "one_way_minutes": 58,
+        "one_way_cost_yen": 1550,
+        "route_summary": "106特急・急行バスでやまびこ産直館下車、徒歩約1分",
+        "cost_note": "盛岡駅前－やまびこ産直館の大人片道運賃"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.6492,
+        "longitude": 141.5894,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "盛岡と宮古のほぼ中間にある山間の道の駅。産直、郷土食、木工品、休憩を組み合わせられる。",
+      "season_note": "冬季は営業時間短縮の場合あり",
+      "estimate_confidence": "high"
+    },
+    {
+      "id": 76,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "葛根田渓谷",
+      "municipality": "雫石町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 70,
+        "one_way_cost_yen": 0,
+        "route_summary": "玄武洞から上流へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.84,
+        "longitude": 140.876,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "ブナ林、渓流、紅葉が見どころ。奥地ほど携帯電波と道路条件に注意。",
+      "season_note": "紅葉期は混雑。冬季閉鎖区間あり",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 77,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "松川温泉",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 75,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道282号・県道212号で松川へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.9047,
+        "longitude": 140.9244,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "乳白色の硫黄泉と山間の秘湯感。複数宿の日帰り湯を比較できる。",
+      "season_note": "冬季は積雪・凍結に注意",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 78,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "松川地熱発電所PR館",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 75,
+        "one_way_cost_yen": 0,
+        "route_summary": "松川温泉手前",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.9067,
+        "longitude": 140.93,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "日本初の商用地熱発電所を学べる。エネルギー・地質好き向け。",
+      "season_note": "開館日を要確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 79,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "八幡平山頂レストハウス・見返峠",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 90,
+        "one_way_cost_yen": 0,
+        "route_summary": "八幡平アスピーテライン",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.9579,
+        "longitude": 140.8537,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "高山湿原と山岳道路の眺望。ドラゴンアイ散策の入口。",
+      "season_note": "冬季閉鎖。ドラゴンアイは例年5月下旬～6月",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 80,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "藤七温泉 彩雲荘",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 95,
+        "one_way_cost_yen": 0,
+        "route_summary": "八幡平樹海ライン",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.957,
+        "longitude": 140.8699,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "標高約1400mの露天風呂と荒涼とした火山景観。",
+      "season_note": "冬季休業・道路閉鎖あり",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 81,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "松尾鉱山跡（緑ヶ丘）",
+      "municipality": "八幡平市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 80,
+        "one_way_cost_yen": 0,
+        "route_summary": "八幡平温泉郷から旧鉱山方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.9472,
+        "longitude": 140.984,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "山中に残る集合住宅群が鉱山都市の規模を物語る。立入禁止区域を厳守。",
+      "season_note": "建物内立入禁止。濃霧・積雪時は回避",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 82,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "早坂高原",
+      "municipality": "盛岡市・岩泉町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 75,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道455号を東へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.8101,
+        "longitude": 141.5005,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "白樺林と草原が広がる峠の高原。沿岸と内陸の植生変化も面白い。",
+      "season_note": "冬季は積雪・凍結に注意",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 83,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "道の駅 三田貝分校",
+      "municipality": "岩泉町",
+      "transport": {
+        "mode": "公共交通機関/徒歩",
+        "one_way_minutes": 85,
+        "one_way_cost_yen": 1990,
+        "route_summary": "JRバス東北早坂高原線で三田貝分校下車",
+        "cost_note": "盛岡駅東口－三田貝分校の大人片道運賃"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.773,
+        "longitude": 141.5677,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "旧分校を活用した道の駅。給食風メニューと学校建築が特徴。",
+      "season_note": null,
+      "estimate_confidence": "high"
+    },
+    {
+      "id": 84,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "龍泉洞・龍泉新洞科学館",
+      "municipality": "岩泉町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 115,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道455号で岩泉へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.8607,
+        "longitude": 141.7963,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "透明度の高い地底湖を持つ日本有数の鍾乳洞。岩手の代表的観光地。",
+      "season_note": "公共交通は約2時間14分・2710円で予算超過しやすい。車も冬季は上振れ",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 85,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "宮古市魚菜市場",
+      "municipality": "宮古市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 105,
+        "one_way_cost_yen": 0,
+        "route_summary": "宮古盛岡横断道路経由",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.6407,
+        "longitude": 141.9465,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "三陸の鮮魚、海産物、惣菜を地元価格感覚で見られる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 86,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "浄土ヶ浜",
+      "municipality": "宮古市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 115,
+        "one_way_cost_yen": 0,
+        "route_summary": "宮古盛岡横断道路から浄土ヶ浜へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.654,
+        "longitude": 141.9785,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "白い流紋岩と青い海が対照的な三陸屈指の景勝地。",
+      "season_note": "夏季・連休は駐車場と道路が混雑",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 87,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "花巻温泉バラ園",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 65,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号から花巻温泉へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.4524,
+        "longitude": 141.0678,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "多数の品種を集めた温泉街の庭園。日帰り温泉と組み合わせやすい。",
+      "season_note": "開花時期と入園条件を要確認",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 88,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "宮沢賢治記念館",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 70,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号から新花巻方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.3776,
+        "longitude": 141.1172,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "賢治の科学、宗教、農業、芸術を横断して理解できる中核施設。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 89,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "宮沢賢治童話村",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 70,
+        "one_way_cost_yen": 0,
+        "route_summary": "宮沢賢治記念館近接",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.3766,
+        "longitude": 141.1161,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "童話世界を空間展示で体験できる。記念館と徒歩圏で回れる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 90,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "イギリス海岸",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 65,
+        "one_way_cost_yen": 0,
+        "route_summary": "花巻市街から北上川へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 45,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.406,
+        "longitude": 141.1265,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "賢治が名付けた北上川の河岸。水位により泥岩層の見え方が変わる。",
+      "season_note": "増水時は河岸に近づかない",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 91,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "高村光太郎記念館・高村山荘",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 80,
+        "one_way_cost_yen": 0,
+        "route_summary": "花巻市太田方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.3496,
+        "longitude": 141.0499,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "戦後の高村光太郎が暮らした簡素な山荘と彫刻・詩の資料。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 92,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "萬鉄五郎記念美術館",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 80,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号・県道43号で東和方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 75,
+      "niche_level": 4,
+      "coordinates": {
+        "latitude": 39.3874,
+        "longitude": 141.2315,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "日本近代洋画の先駆者・萬鉄五郎を郷里で掘り下げられる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 93,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "大沢温泉",
+      "municipality": "花巻市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 75,
+        "one_way_cost_yen": 0,
+        "route_summary": "花巻南温泉峡へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 150,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.4398,
+        "longitude": 140.9849,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "豊沢川沿いの露天風呂と湯治場建築が残る。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 94,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "北上展勝地",
+      "municipality": "北上市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 75,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号を南下して北上市街へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.2784,
+        "longitude": 141.1294,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "北上川沿い約2kmの桜並木。桜期以外も散歩と景観を楽しめる。",
+      "season_note": "桜まつり期間は大幅な渋滞",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 95,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "みちのく民俗村",
+      "municipality": "北上市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 75,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号を南下して北上市街へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.274,
+        "longitude": 141.139,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "県内各地の古民家を移築した野外博物館。生活文化を比較できる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 96,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "北上市立鬼の館",
+      "municipality": "北上市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 85,
+        "one_way_cost_yen": 0,
+        "route_summary": "北上市和賀町岩崎方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 3,
+      "coordinates": {
+        "latitude": 39.3155,
+        "longitude": 141.0522,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "鬼剣舞を軸に国内外の鬼文化を扱う専門性の高い博物館。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 97,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "とおの物語の館",
+      "municipality": "遠野市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 95,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道396号・釜石道方面",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 90,
+      "niche_level": 2,
+      "coordinates": {
+        "latitude": 39.3295,
+        "longitude": 141.5333,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "『遠野物語』と語り部文化を市街地で体系的に知ることができる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 98,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "カッパ淵",
+      "municipality": "遠野市",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 105,
+        "one_way_cost_yen": 0,
+        "route_summary": "遠野市街から土淵へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 60,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.3492,
+        "longitude": 141.5707,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "常堅寺裏の小川に河童伝承が残る、遠野を象徴する場所。",
+      "season_note": "足元が滑りやすい。河川増水時は注意",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 99,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "中尊寺",
+      "municipality": "平泉町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 100,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号を南下して平泉へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 180,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 39.0013,
+        "longitude": 141.099,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "金色堂を中心に奥州藤原氏の仏教文化を体感できる世界遺産。",
+      "season_note": "紅葉・連休時は混雑",
+      "estimate_confidence": "medium"
+    },
+    {
+      "id": 100,
+      "time_budget_minutes": 120,
+      "time_band": "120分以内",
+      "name": "毛越寺",
+      "municipality": "平泉町",
+      "transport": {
+        "mode": "車",
+        "one_way_minutes": 95,
+        "one_way_cost_yen": 0,
+        "route_summary": "国道4号を南下して平泉へ",
+        "cost_note": "0円はガソリン代・駐車料金・車両調達費を含まない"
+      },
+      "recommended_stay_minutes": 120,
+      "niche_level": 1,
+      "coordinates": {
+        "latitude": 38.9904,
+        "longitude": 141.114,
+        "accuracy": "概略代表点"
+      },
+      "recommendation": "大泉が池を中心とした浄土庭園が残る世界遺産。中尊寺と性格が異なる。",
+      "season_note": null,
+      "estimate_confidence": "medium"
+    }
+  ]
+}
